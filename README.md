@@ -12,8 +12,8 @@ Conteúdos referentes ao curso de Java do professor Nelio Alves, na Udemy. Toda 
 - [x] **Seção 2:**  Conceitos de programação
 - [x] **Seção 3:**  Introdução à linguagem Java
 - [x] **Seção 4:**  Estrutura sequencial 
-- [ ] **Seção 5:**  Estrutura condicional **(em andamento)**
-- [ ] **Seção 6:**  Estruturas repetitivas
+- [x] **Seção 5:**  Estrutura condicional 
+- [ ] **Seção 6:**  Estruturas repetitivas **(em andamento)**
 - [ ] **Seção 7:**  Outros tópicos básicos sobre Java
 - [ ] **Seção 8:**  Introdução à Programação Orientada a Objetos
 - [ ] **Seção 9:**  Construtores, palavra this, sobrecarga, encapsulamento
