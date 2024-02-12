@@ -20,8 +20,8 @@ Conteúdos referentes ao curso de Java do professor Nelio Alves, na Udemy. Toda 
 - [x] **Seção 10:** Comportamento de memória, arrays, listas 
 - [x] **Seção 11:** Tópicos especiais em Java: data-hora 
 - [ ] **Seção 12:** Bônus - nivelamento sobre Git e Github **(adiado)**
-- [ ] **Seção 13:** Enumerações, composição **(em andamento)**
-- [ ] **Seção 14:** Herança e polimorfismo
+- [x] **Seção 13:** Enumerações, composição 
+- [ ] **Seção 14:** Herança e polimorfismo **(em andamento)**
 - [ ] **Seção 15:** Tratamento de exceções
 - [ ] **Seção 16:** Projeto: Sistema jogo de xadrez
 - [ ] **Seção 17:** Trabalhando com arquivos
