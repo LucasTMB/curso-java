@@ -22,9 +22,9 @@ Conteúdos referentes ao curso de Java do professor Nelio Alves, na Udemy. Toda 
 - [ ] **Seção 12:** Bônus - nivelamento sobre Git e Github **(adiado)**
 - [x] **Seção 13:** Enumerações, composição 
 - [x] **Seção 14:** Herança e polimorfismo 
-- [ ] **Seção 15:** Tratamento de exceções **(em andamento)**
-- [ ] **Seção 16:** Projeto: Sistema jogo de xadrez
-- [ ] **Seção 17:** Trabalhando com arquivos
+- [x] **Seção 15:** Tratamento de exceções 
+- [ ] **Seção 16:** Projeto: Sistema jogo de xadrez **(adiado)**
+- [ ] **Seção 17:** Trabalhando com arquivos **(em andamento)**
 - [ ] **Seção 18:** Interfaces
 - [ ] **Seção 19:** Generics, Set, Map
 - [ ] **Seção 20:** Programação funcional e expressões lambda
