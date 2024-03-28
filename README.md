@@ -24,8 +24,8 @@ Conteúdos referentes ao curso de Java do professor Nelio Alves, na Udemy. Toda 
 - [x] **Seção 14:** Herança e polimorfismo 
 - [x] **Seção 15:** Tratamento de exceções 
 - [ ] **Seção 16:** Projeto: Sistema jogo de xadrez **(adiado)**
-- [ ] **Seção 17:** Trabalhando com arquivos **(em andamento)**
-- [ ] **Seção 18:** Interfaces
+- [x] **Seção 17:** Trabalhando com arquivos 
+- [ ] **Seção 18:** Interfaces **(em andamento)**
 - [ ] **Seção 19:** Generics, Set, Map
 - [ ] **Seção 20:** Programação funcional e expressões lambda
 - [ ] **Seção 21:** Acesso a banco de dados com JDBC
